@@ -16,12 +16,12 @@ Un formulario de inicio de sesión y registro moderno con diseño **Neumórfico*
 *   **JavaScript (Vanilla):** Lógica de manipulación del DOM para el intercambio de clases y control de tiempos de animación.
 *   **Google Fonts:** Fuente 'Ubuntu' para una tipografía limpia.
 
-## 📸 imagen
+## 📸 Imagen
 ![Login UI](images/login.png)
 
 
 
-## 🌐 sitio web
+## 🌐 Sitio web
 https://neumorphism-login-azure.vercel.app/
 
 ## 📂 Estructura del Proyecto
